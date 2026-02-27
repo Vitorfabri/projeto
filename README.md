@@ -6,4 +6,3 @@ Esse projeto é para aprender sobre GIT e GITHUB
 
 **LISTA**
 - Passos 1
-uuu
